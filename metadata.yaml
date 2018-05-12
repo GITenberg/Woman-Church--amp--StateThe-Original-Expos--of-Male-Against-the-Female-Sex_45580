@@ -1,0 +1,36 @@
+_repo: Woman-Church--amp--StateThe-Original-Expos--of-Male-Against-the-Female-Sex_45580
+_version: 0.1.0
+alternative_title: Women, church, and state
+covers:
+- cover_type: archival
+  image_path: 45580-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gage, Matilda Joslyn
+    aliases:
+    - Joslyn, Matilda E.
+    - Gage, M. E. J. (Matilda E. Joslyn)
+    - Gage, Mrs. Henry H.
+    birthdate: 1826
+    deathdate: 1898
+    gutenberg_agent_id: '33081'
+    url: http://www.gutenberg.org/2009/agents/33081
+description: ''
+gutenberg_issued: '2014-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women''s rights'
+- !lcsh 'Women''s rights -- Religious aspects'
+- !lcsh 'Women and religion'
+- !lcsh 'Women -- History'
+- !lcsh 'Women''s rights -- United States'
+title: "Woman, Church & State\r\nThe Original Exposé of Male Collaboration Against\
+  \ the Female Sex"
+url: http://www.gutenberg.org/ebooks/45580
